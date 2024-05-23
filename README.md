@@ -1,25 +1,26 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="./assets/208593.gif">
 </div>
 
 </br>
 </br>
 </br>
 
-
 # About ME 💬 :
 
 ### - I'm 19 years old Computer Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="./assets/1936.gif">
 
 ### - Learning :
+
 - ✨ Data Structures & Algorithms
 - ✨ DevOps
 
-### - Hobbies : 
+### - Hobbies :
+
 - ✨ Chess Addict
 - ✨ Watching Anime
 - ✨ Gym
@@ -28,61 +29,51 @@
 </br>
 </br>
 
-
-
 # Languages & Tools 👨‍💻 🛠:
+
 </br>
 
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+
+<img src="./svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
+<img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+<img src=".svg/dev/tools/python.svg" alt="python"  style="vertical-align:top; margin:6px 4px">
 </p>
 </br>
 </br>
 </br>
-
-
 
 # Contact Me :
 
 <p>
  </br>
 
-
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/93195.gif">
-
+<img hight="320" width="450" align="right" alt="GIF" src="./assets/93195.gif">
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="mailto:mohitdudhat22@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="./icons/gmail.png"   style="vertical-align:top; margin:6px 4px"/>
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a href="https://www.linkedin.com/in/mohit-dudhat-8b93bb29b">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="./icons/linkedin.png"  style="vertical-align:top; margin:6px 4px"/>
 </br>
 </br>
 </br>
 </a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
+
  </p>
- 
 
 </br>
 </br>
@@ -91,13 +82,38 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 </br>
 </br>
+<!-- <h1 align="center">Hi 👋, I'm Bap</h1>
+<h3 align="center">I'm the Lead DevRel@Quine, a deep tech start up helping developers monetise their reputation!</h3> ** -->
+<!-- 
+<div>
+- 📊 I worked in Analytics at TikTok, Glovo and Uber for the past couple of years.
 
+- 📝 I regularly write articles on [dev.to](https://dev.to/fernandezbaptiste)
 
+- 💬 Ask me about **DevRel, Data Analysis and content creation,**
+
+- 🔭 I’m currently working on [building a simple repo for everyone to learn how to contribute](https://github.com/quine-sh/Your-First-Contribution)
+
+- 🤝 I’m looking for help with **in building cool developer communities**
+
+- 🌱 I’m trying to learn **Solidity**
+
+- ⚡ Fun fact \*\*I can speak Mandarin :
+</div> -->
 
 <p align="center" >  
   <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+<img  src="https://github-readme-stats.vercel.app/api?username=mohitdudhat22&&show_icons=true&theme=radical"/>
   </a>
+<p align="center" >
+	<picture>
+	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mohitdudhat22/mohitdudhat22/output-3d-contrib/night.svg" />
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitdudhat22/mohitdudhat22/output-3d-contrib/day.svg" />
+	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/mohitdudhat22/mohitdudhat22/output-3d-contrib/day.svg" />
+	</picture>
+</p>
+[![mohitdudhat22's GitHub | Stats](https://stats.quine.sh/mohitdudhat22/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mohitdudhat22)
+
   </p>
 
-*************
+---
