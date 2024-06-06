@@ -1,7 +1,7 @@
 # Konichiwa 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="./assets/208593.gif">
+<img hight="300" width="700" alt="GIF" align="center" src="./assets/1.gif">
 </div>
 
 </br>
@@ -59,7 +59,7 @@
 <p>
  </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="./assets/93195.gif">
+<img hight="300" width="450" align="right" alt="GIF" src="./assets/3.jpg" style = "margin-bottom:30px">
 
 If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
 
