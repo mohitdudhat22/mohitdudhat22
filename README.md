@@ -48,7 +48,6 @@
 <img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
 <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
 <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
-<img src=".svg/dev/tools/python.svg" alt="python"  style="vertical-align:top; margin:6px 4px">
 </p>
 </br>
 </br>
