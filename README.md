@@ -1,18 +1,25 @@
+
+<!-- part-1  -->
 # Konichiwa 👋
 
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Mohit Dudhat%F0%9F%91%8B;Let's+Connect!"/>
 <div align="center">
+
+<div> 
+</div>
 <img hight="300" width="700" alt="GIF" align="center" src="./assets/1.gif">
 </div>
 
 </br>
-</br>
-</br>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<!-- part-1  -->
 
+<!-- part 2 -->
 # About ME 💬 :
 
-### - I'm 19 years old Computer Enthusiast from India.
+### - I'm 20 years old Computer Enthusiast from India.
 
-<img hight="400" width="500" alt="GIF" align="right" src="./assets/1936.gif">
+<img hight="300" width="400" alt="GIF" align="right" src="./assets/About.gif" style="margin-bottom:30px">
 
 ### - Learning :
 
@@ -28,91 +35,64 @@
 </br>
 </br>
 </br>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<!-- part 2 -->
 
-# Languages & Tools 👨‍💻 🛠:
 
-</br>
 
-<p align="center">
+<!-- part 3 -->
+<!-- linux,docker,kubernetes,azure,netlify -->
+<!-- git,vscode,github,vim,githubaction -->
+# Technologies
+<table>
+<tr>
+	<td><strong>Web Development</strong></td>
+	<td><strong>Languages</strong></td>
+</tr>
+<tr>
+		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,nodejs,nextjs,bootstrap,express,firebase,mongodb" ></td>
+		<td><img src = "https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark"></td>
+</tr>
+<tr>
+	<td><strong>Cybersecurity&Cloud</strong></td>
+	<td><strong>Tools</strong></td>
+</tr>
+<tr>
+	<td><img src = "https://skillicons.dev/icons?i=docker,netlify,vercel&theme=dark"></td>
+	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim&theme=dark"></td>
+</tr>
+</table>
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+<!-- part 3 -->
 
-<img src="./svg/dev/frameworks/bootstrap.svg" alt="bootstrap" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/languages/sass.svg" alt="sass" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/services/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/services/npm.svg" alt="npm" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
-<img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
+<!-- part 4 -->
+# Github Stats
+
+<div>
+<p style="display:flex; align=center; justify-content:center; ">
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=mohitdudhat22&theme=midnight-purple" style="margin-right:4px; style:block;">
+</div>
+<div>
+<img src="https://streak-stats.demolab.com/?user=mohitdudhat22&theme=holi-theme">
+<div>
 </p>
-</br>
-</br>
-</br>
+</div>
 
+<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
+<!-- part 4 -->
+
+
+<!-- part 5 -->
 # Contact Me :
 
-<p>
- </br>
 
-<img hight="300" width="450" align="right" alt="GIF" src="./assets/3.jpg" style = "margin-bottom:30px">
-
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
-
-<a href="mailto:mohitdudhat22@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="./icons/gmail.png"   style="vertical-align:top; margin:6px 4px"/>
-</a>
-<a href="https://www.linkedin.com/in/mohit-dudhat-8b93bb29b">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="./icons/linkedin.png"  style="vertical-align:top; margin:6px 4px"/>
-</br>
-</br>
-</br>
-</a>
-
- </p>
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-<!-- <h1 align="center">Hi 👋, I'm Bap</h1>
-<h3 align="center">I'm the Lead DevRel@Quine, a deep tech start up helping developers monetise their reputation!</h3> ** -->
-<!-- 
-<div>
-- 📊 I worked in Analytics at TikTok, Glovo and Uber for the past couple of years.
-
-- 📝 I regularly write articles on [dev.to](https://dev.to/fernandezbaptiste)
-
-- 💬 Ask me about **DevRel, Data Analysis and content creation,**
-
-- 🔭 I’m currently working on [building a simple repo for everyone to learn how to contribute](https://github.com/quine-sh/Your-First-Contribution)
-
-- 🤝 I’m looking for help with **in building cool developer communities**
-
-- 🌱 I’m trying to learn **Solidity**
-
-- ⚡ Fun fact \*\*I can speak Mandarin :
-</div> -->
-
-<p align="center" >  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-<img  src="https://github-readme-stats.vercel.app/api?username=mohitdudhat22&&show_icons=true&theme=radical"/>
-  </a>
-<p align="center" >
-	<picture>
-	  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mohitdudhat22/mohitdudhat22/output-3d-contrib/night.svg" />
-	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitdudhat22/mohitdudhat22/output-3d-contrib/day.svg" />
-	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/mohitdudhat22/mohitdudhat22/output-3d-contrib/day.svg" />
-	</picture>
-</p>
-[![mohitdudhat22's GitHub | Stats](https://stats.quine.sh/mohitdudhat22/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=mohitdudhat22)
-
-  </p>
-
+  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mohit_dudhat22)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohit-dudhat/)
+<!-- part 5 -->
 ---
+
+
+
+
