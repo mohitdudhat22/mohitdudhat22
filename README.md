@@ -2,7 +2,9 @@
 <!-- part-1  -->
 # Konichiwa 👋
 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&color=2AF7B4&width=535&lines=Hi%2C+I'm+Mohit Dudhat%F0%9F%91%8B;Let's+Connect!"/>
+<div>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2af791&random=false&width=435&height=33&lines=Let's+Connect;Hi%2C+I'm+Mohit+Dudhat" alt="Typing SVG" /></a>
+</div>
 <div align="center">
 
 <div> 
