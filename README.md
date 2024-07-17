@@ -71,6 +71,9 @@
 <!-- part 4 -->
 # Github Stats
 <div align="center">
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
+    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile Night Rainbow">
+</div>
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitdudhat22&theme=github_dark" />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitdudhat22&theme=github_dark"  />
 <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitdudhat22&theme=github_dark"  />
@@ -81,7 +84,6 @@
     <img height="180em" style="min-width: 300px;" src="https://streak-stats.demolab.com/?user=mohitdudhat22&theme=holi-theme">
 </div>
 </div>
-  
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <!-- part 4 -->
