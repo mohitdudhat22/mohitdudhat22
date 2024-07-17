@@ -70,17 +70,18 @@
 
 <!-- part 4 -->
 # Github Stats
-
-<div>
-<p style="display:flex; align=center; justify-content:center; ">
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=mohitdudhat22&theme=midnight-purple" style="margin-right:4px; style:block;">
+<div align="center">
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitdudhat22&theme=github_dark" />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitdudhat22&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitdudhat22&theme=github_dark"  />
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitdudhat22&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitdudhat22&theme=github_dark" />
+<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; width: 100%; margin-top: 50px;">
+    <img height="180em" style="min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=mohitdudhat22&theme=midnight-purple">
+    <img height="180em" style="min-width: 300px;" src="https://streak-stats.demolab.com/?user=mohitdudhat22&theme=holi-theme">
 </div>
-<div>
-<img src="https://streak-stats.demolab.com/?user=mohitdudhat22&theme=holi-theme">
-<div>
-</p>
 </div>
+  
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <!-- part 4 -->
