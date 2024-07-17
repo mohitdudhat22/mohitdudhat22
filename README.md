@@ -82,12 +82,18 @@
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; width: 100%; margin-top: 50px;">
     <img height="180em" style="min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=mohitdudhat22&theme=midnight-purple">
     <img height="180em" style="min-width: 300px;" src="https://streak-stats.demolab.com/?user=mohitdudhat22&theme=holi-theme">
+	
 </div>
 </div>
 
 <p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 <!-- part 4 -->
 
+# Leetcode Stats
+
+<div align="center">
+	<img src="https://leetcard.jacoblin.cool/mohitdudhat22?theme=dark&font=Noticia%20Text&ext=contest" alt="LeetCode Stats">
+</div>
 
 <!-- part 5 -->
 # Contact Me :
