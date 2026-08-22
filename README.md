@@ -1,109 +1,95 @@
+<h1 align="center">Konichiwa 👋</h1>
 
-<!-- part-1  -->
-# Konichiwa 👋
-
-<div>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2af791&random=false&width=435&height=33&lines=Let's+Connect!;Hi%2C+I'm+Mohit+Dudhat" alt="Typing SVG" /></a>
-</div>
 <div align="center">
-
-<div> 
+  <a href="https://github.com/mohitdudhat22">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AF791&center=true&vCenter=true&width=435&height=33&lines=Hi%2C+I'm+Mohit+Dudhat;Let's+Connect!" alt="Hi, I'm Mohit Dudhat — let's connect!" />
+  </a>
 </div>
-<img hight="300" width="700" alt="GIF" align="center" src="./assets/1.gif">
+
+<div align="center">
+  <img width="700" alt="Coding animation" src="./assets/1.gif">
 </div>
 
-</br>
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-<!-- part-1  -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5" alt=""></p>
 
-<!-- part 2 -->
-# About ME 💬 :
+## About Me 💬
 
-### - I'm 20 years old Computer Enthusiast from India.
+<img width="380" align="right" alt="About animation" src="./assets/About.gif">
 
-<img hight="300" width="400" alt="GIF" align="right" src="./assets/About.gif" style="margin-bottom:30px">
+Computer enthusiast from India, building for the web and going deeper into systems.
 
-### - Learning :
+**Currently learning**
 
 - ✨ Data Structures & Algorithms
 - ✨ DevOps
 
-### - Hobbies :
+**Hobbies**
 
-- ✨ Chess Addict
-- ✨ Watching Anime
+- ✨ Chess addict
+- ✨ Watching anime
 - ✨ Gym
 
-</br>
-</br>
-</br>
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-<!-- part 2 -->
+<br clear="right">
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5" alt=""></p>
 
+## Technologies 🛠️
 
-<!-- part 3 -->
-<!-- linux,docker,kubernetes,azure,netlify -->
-<!-- git,vscode,github,vim,githubaction -->
-# Technologies
 <table>
-<tr>
-	<td><strong>Web Development</strong></td>
-	<td><strong>Languages</strong></td>
-</tr>
-<tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,nodejs,nextjs,bootstrap,express,firebase,mongodb" ></td>
-		<td><img src = "https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark"></td>
-</tr>
-<tr>
-	<td><strong>Cybersecurity&Cloud</strong></td>
-	<td><strong>Tools</strong></td>
-</tr>
-<tr>
-	<td><img src = "https://skillicons.dev/icons?i=docker,netlify,vercel&theme=dark"></td>
-	<td><img src = "https://skillicons.dev/icons?i=git,vscode,github,vim&theme=dark"></td>
-</tr>
+  <tr>
+    <td><strong>Web Development</strong></td>
+    <td><img alt="HTML, CSS, JavaScript, React, Sass, Tailwind, Node.js, Next.js, Bootstrap, Express, Firebase, MongoDB" src="https://skillicons.dev/icons?i=html,css,js,react,sass,tailwind,nodejs,nextjs,bootstrap,express,firebase,mongodb&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>Languages</strong></td>
+    <td><img alt="Java, Python, C, C++" src="https://skillicons.dev/icons?i=java,python,c,cpp&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>Cloud &amp; Deployment</strong></td>
+    <td><img alt="Docker, Netlify, Vercel" src="https://skillicons.dev/icons?i=docker,netlify,vercel&theme=dark"></td>
+  </tr>
+  <tr>
+    <td><strong>Tools</strong></td>
+    <td><img alt="Git, VS Code, GitHub, Vim" src="https://skillicons.dev/icons?i=git,vscode,github,vim&theme=dark"></td>
+  </tr>
 </table>
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
 
-<!-- part 3 -->
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5" alt=""></p>
 
-<!-- part 4 -->
-# Github Stats
-<div align="center">
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="Profile Night Rainbow">
-</div>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitdudhat22&theme=github_dark" />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitdudhat22&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitdudhat22&theme=github_dark"  />
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitdudhat22&theme=github_dark"/>
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitdudhat22&theme=github_dark" />
-<div style="display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px; width: 100%; margin-top: 50px;">
-    <img height="180em" style="min-width: 300px;" src="https://github-readme-stats.vercel.app/api?username=mohitdudhat22&theme=midnight-purple">
-    <img height="180em" style="min-width: 300px;" src="https://streak-stats.demolab.com/?user=mohitdudhat22&theme=holi-theme">
-	
-</div>
-</div>
-
-<p align="center"><img src= 'https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5'/></p>
-<!-- part 4 -->
-
-# Leetcode Stats
+## GitHub Stats 📊
 
 <div align="center">
-	<img src="https://leetcard.jacoblin.cool/mohitdudhat22?theme=dark&font=Noticia%20Text&ext=contest" alt="LeetCode Stats">
+  <img alt="3D contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg">
 </div>
 
-<!-- part 5 -->
-# Contact Me :
+<div align="center">
+  <img height="180em" alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitdudhat22&theme=github_dark" />
+  <img height="180em" alt="Repos per language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitdudhat22&theme=github_dark" />
+  <img height="180em" alt="Most committed language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitdudhat22&theme=github_dark" />
+  <img height="180em" alt="Contribution stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitdudhat22&theme=github_dark" />
+  <img height="180em" alt="Productive time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitdudhat22&theme=github_dark" />
+</div>
 
+<div align="center">
+  <img height="180em" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=mohitdudhat22&theme=holi-theme">
+</div>
 
-  [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mohit_dudhat22)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohit-dudhat/)
-<!-- part 5 -->
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5" alt=""></p>
 
+## LeetCode Stats 🧩
 
+<div align="center">
+  <a href="https://leetcode.com/mohitdudhat22/">
+    <img alt="LeetCode stats" src="https://leetcard.jacoblin.cool/mohitdudhat22?theme=dark&font=Noticia%20Text&ext=contest">
+  </a>
+</div>
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2.5" alt=""></p>
 
+## Contact Me 📫
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohit-dudhat/"><img alt="LinkedIn" src="https://skillicons.dev/icons?i=linkedin"></a>
+  <a href="https://twitter.com/mohit_dudhat22"><img alt="Twitter" src="https://skillicons.dev/icons?i=twitter"></a>
+  <a href="https://github.com/mohitdudhat22"><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark"></a>
+</div>
